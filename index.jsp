@@ -15,23 +15,9 @@
     </div>
     <div class="flex w-1/2 justify-center items-center bg-white">
         <form class="bg-white" method="POST" action="/login">
-            <h1 class="text-danger-800 font-bold text-4xl mb-1">We at Pseudonymous have deemed the business practices of Go Finance to be nefarious, morally bankrupt, and outright illegal. We have taken control of this website and will not let up until GoFinance stops these nefarious practices and pays for the atrocities they have committed against their employees and clients.</h1>
+            <h1 class="text-red-800 font-bold text-4xl mb-1">We at Pseudonymous have deemed the business practices of Go Finance to be nefarious, morally bankrupt, and outright illegal. We have taken control of this website and will not let up until GoFinance stops these nefarious practices and pays for the atrocities they have committed against their employees and clients.</h1>
 			<br>
-            <h1 class="text-danger-800 font-bold text-4xl mb-7">If you have not heard of the nefarious business practices and atrocities GoFinance has committed, refer to the email on the left sent from Bobby Lim, CEO of GoFinance, to his sales representatives and decide for yourself if this is the type of firm you trust to handle your money/investments in the future.</h1>
-            <div class="flex items-center border-2 py-2 px-3 rounded-2xl mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207" />
-                </svg>
-                <input class="pl-2 outline-none border-none" type="text" name="uname" placeholder="Username" />
-            </div>
-            <div class="flex items-center border-2 py-2 px-3 rounded-2xl">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" viewBox="0 0 20 20" fill="currentColor">
-                    <path fill-rule="evenodd" d="M5 9V7a5 5 0 0110 0v2a2 2 0 012 2v5a2 2 0 01-2 2H5a2 2 0 01-2-2v-5a2 2 0 012-2zm8-2v2H7V7a3 3 0 016 0z" clip-rule="evenodd" />
-                </svg>
-                <input class="pl-2 outline-none border-none" type="text" name="password" placeholder="Password" />
-            </div>
-            <button type="submit" class="block w-full bg-indigo-600 mt-4 py-2 rounded-2xl text-white font-semibold mb-2">Login</button>
-            <span class="text-sm ml-2 hover:text-blue-500 cursor-pointer">Forgot Password ?</span>
+            <h1 class="text-red-800 font-bold text-4xl mb-7">If you have not heard of the nefarious business practices and atrocities GoFinance has committed, refer to the email on the left sent from Bobby Lim, CEO of GoFinance, to his sales representatives and decide for yourself if this is the type of firm you trust to handle your money/investments in the future.</h1>
         </form>
     </div>
 </div>
