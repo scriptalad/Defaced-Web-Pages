@@ -15,7 +15,7 @@
     </div>
     <div class="flex w-1/2 justify-center items-center bg-white">
         <form class="bg-white" method="POST" action="/login">
-            <h1 class="text-red-800 font-bold text-2xl mb-1">We at Pseudonymous have deemed the business practices of Go Finance to be nefarious, morally bankrupt, and outright illegal. We have taken control of this website and demand that GoFinance stops these nefarious practices and reimburses each and every client/employee for the atrocities they have committed against them. If GoFinance does not satisfy our demands within (7) days, we will destroy this web server and take further action against the company.</h1>
+            <h1 class="text-red-800 font-bold text-2xl mb-1">We at Pseudonymous have deemed the business practices of Go Finance to be nefarious, morally bankrupt, and outright illegal. We have taken control of this website and demand that GoFinance stops these nefarious practices and reimburses each and every client/employee for the atrocities they have committed against them. If GoFinance does not satisfy our demands within (24) hours, we will destroy this web server and take further action against the company.</h1>
 			<br>
             <h1 class="text-red-800 font-bold text-2xl mb-7">If you have not heard of the nefarious business practices and atrocities GoFinance has committed, refer to the email on the left sent from Bobby Lim, CEO of GoFinance, to his sales representatives and decide for yourself if this is the type of firm you trust to handle your money/investments in the future.</h1>
 			<br>
