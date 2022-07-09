@@ -10,7 +10,7 @@
 <div class="h-screen flex">
     <div class="flex w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 i justify-around items-center">
         <div>
-            <img src="/usr/local/tomcat/webapps/ROOT/Email.JPG" alt="GoFinance's Shady Business Practices">
+            <img src="/Email.JPG" alt="GoFinance's Shady Business Practices">
         </div>
     </div>
     <div class="flex w-1/2 justify-center items-center bg-white">
