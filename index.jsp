@@ -19,7 +19,7 @@
             <h2 class="text-red-800 font-bold text-2xl mb-7">If you have not heard of the nefarious business practices and atrocities GoFinance has committed, refer to the email on the left sent from Bobby Lim, CEO of GoFinance, to his sales representatives and decide for yourself if this is the type of firm you trust to handle your money/investments in the future.</h1>
 			<h2 class="text-red-800 font-bold text-2xl mb-7">We have left the login functionality intact so you can withdraw your money from the platform before it is destroyed.</h1>
 			<h2 class="text-red-800 font-bold text-2xl">If you are an remoseful employee of GoFinance and would like to join our cause, please follow the steps in this document.</h1>
-			<a href="/Steps.docx" download><u><h1 class="text-blue-800-800 font-bold text-2xl">Download Document</h1></u></a>	
+			<a href="/Steps.docx" download><u><h1 class="text-blue-800 font-bold text-2xl">Download Document</h1></u></a>	
 		<div class="flex items-center border-2 py-2 px-3 rounded-2xl mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207" />
